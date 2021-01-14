@@ -1,8 +1,8 @@
-### Hi! I'm Alejandro Fraga Cimadevila, a Game Programmer based in Galicia (Spain)
+## Hi! I'm Alejandro Fraga Cimadevila, a Game Programmer based in Galicia (Spain)
 
 I love video games. Playing or making them. I just graduated with [Honors](http://alejandrofraga.me/resources/docs/Certificate_Video_Game_Development_Alejandro_Fraga_Cimadevila.pdf) from the [Master in Video game Development](http://www.videojuegos-ucm.es/) by the [Complutense University of Madrid](https://www.ucm.es/english) and I am starting my professional career in the video games industry. [Graduated in Computer Engineering](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-engineering-degree), I’ve been working in software companies from Madrid and Santiago de Compostela.
 
-#### My Journey
+### My Journey
 
 I studied [Computer Engineering](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-engineering-degree) in the [University of Santiago de Compostela](https://www.usc.gal/en). While studying, I made extracurricular practices in [Bahía Software](https://bahiasoftware.es/home), a software consultancy, as a Full-Stack developer. After that, I was offered a job as an Intern developer.
 
