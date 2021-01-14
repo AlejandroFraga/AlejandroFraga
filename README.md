@@ -10,3 +10,5 @@ I moved to Madrid to study the [Master in Video game Development](http://www.vid
 
 The Final Master Project consisted in developing of a PC video game as part of a team of 20+ people, divided in 5 specialized departments and using [Unreal Engine 4](https://www.unrealengine.com/en-US/)
 This great experience allowed me to perform within a multidisciplinary group as well as improve my team working skills. The final product is [Voidout](https://loopgang-studios.itch.io/voidout).
+
+[![AlejandroFraga's github stats](https://github-readme-stats.vercel.app/api?username=AlejandroFraga&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
