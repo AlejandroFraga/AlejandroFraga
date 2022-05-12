@@ -13,4 +13,4 @@ This great experience allowed me to perform within a multidisciplinary group as 
 
 [![AlejandroFraga's github stats](https://github-readme-stats.alejandrofraga.vercel.app/api?username=AlejandroFraga&include_all_commits=true&count_private=true&show_icons=true&theme=dark&icon_color=58a6ff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.alejandrofraga.vercel.app/api/top-langs/?username=AlejandroFraga&show_icons=true&theme=dark&bg_color=0d1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.alejandrofraga.vercel.app/api/top-langs/?username=AlejandroFraga&show_icons=true&theme=dark&bg_color=0d1117&layout=compact&langs_count=10&hide=ShaderLab,C,HLSL)](https://github.com/anuraghazra/github-readme-stats)
