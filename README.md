@@ -2,7 +2,7 @@
 
 I always saw video games as more than just a hobby. As a way of telling stories and awakening emotions, in which the decisions are taken by the player.
 
-In the industry, I have worked at [Gameloft](https://www.gameloft.com/), [Sinn Studio](https://www.sinnstudio.com/) and some Indie Studios.
+In the industry, I have worked at [Gameloft](https://www.gameloft.com/), [Sinn Studio](https://www.sinnstudio.com/), and some Indie Studios.
 
 Graduated **with Honors** from the [Complutense University of Madrid](https://www.ucm.es/english) in the [Master in Video Game Development](http://www.videojuegos-ucm.es/),
 and [Computer Engineering](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-engineering-degree) from the [University of Santiago de Compostela](https://www.usc.gal/en).
